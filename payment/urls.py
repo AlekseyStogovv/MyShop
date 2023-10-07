@@ -1,6 +1,5 @@
 from django.urls import path
-from . import views
-from .aplication import webhooks
+from . import views, webhooks
 
 # from . import webhooks
 
